@@ -1,0 +1,3 @@
+# Project exclude paths
+/Heyom/McDonaldApp/${project.build.directory}/classes/
+/Heyom/McDonaldApp/target/
